@@ -20,7 +20,6 @@ A lightweight, conversational chatbot built with Python and the OpenAI API. Supp
 ### 1. Clone the repo
 ```bash
 git clone https://github.com/YOUR_USERNAME/smart-chatbot.git
-cd smart-chatbot
 ```
 
 ### 2. Install dependencies
